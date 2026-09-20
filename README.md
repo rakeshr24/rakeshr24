@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Rakesh 👋
 
-<!--
-**rakeshr24/rakeshr24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity undergrad (Marketing minor) | 4+1 Masters program | Posting home-lab security projects here
 
-Here are some ideas to get you started:
+## 🔧 Tools & Tech
+`Kali Linux` · `Wireshark` · `Nmap` · `Metasploit` · `Splunk` · `Burp Suite` · `Python` · `Bash`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| project-name | one-line description | tools used |
+
+## 📫 Contact
+- LinkedIn: [Rakesh Rajbali](https://www.linkedin.com/in/rakesh-r-9569402a7/)
